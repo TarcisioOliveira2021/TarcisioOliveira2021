@@ -4,7 +4,7 @@ Hi Folks 🐱‍🏍🐱‍🏍
 
 <div>
   <a href="https://github.com/TarcisioOliveira2021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarcisioOliveira2021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisioOliveira2021&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TarcisioOliveira2021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisioOliveira2021&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
