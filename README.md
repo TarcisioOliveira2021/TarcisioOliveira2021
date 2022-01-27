@@ -1,6 +1,3 @@
-Hi Folks 🐱‍🏍🐱‍🏍
-- 🔭 I’m currently working on Front-end
-- 🔭 I’m currently learning Java , Javascript , HTML and CSS
 
 <div>
   <a href="https://github.com/TarcisioOliveira2021">
