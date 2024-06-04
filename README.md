@@ -10,10 +10,7 @@
                         88   88 88.     88booo. 88booo. `8b  d8'   `8b d8'8b d8' `8b  d8' 88 `88. 88booo. 88  .8D 
                         YP   YP Y88888P Y88888P Y88888P  `Y88P'     `8b8' `8d8'   `Y88P'  88   YD Y88888P Y8888D'
 
-
 ##
-
-<img align="right" width="500" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```C#
  public class Tarcisio {
